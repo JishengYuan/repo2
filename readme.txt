@@ -1,2 +1,2 @@
-Learn a tool git.
+Learn a tool named git.
 Git is powerful.
