@@ -1,2 +1,2 @@
 Learn a tool named git.
-Git is very powerful.
+Git is very powerful.xxxxx
